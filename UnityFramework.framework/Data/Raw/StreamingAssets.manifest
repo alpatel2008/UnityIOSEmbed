@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 876407503
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: car.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: threecylinder.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: threeobj.unity3d
+      Dependencies: {}
